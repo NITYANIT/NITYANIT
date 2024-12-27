@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NITYANIT
-- 👀 I’m interested in webdevelopment,ai
+- 👀 I’m interested in webdevelopment,cybersecurity 
 - 🌱 I’m currently learning webdevelopment
 - 📫 How to reach me through my linked profile
 
