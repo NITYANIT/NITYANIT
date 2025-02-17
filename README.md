@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NITYANIT
+- 👋 Hi, I’m @NITYAGATTU
 - 👀 I’m interested in webdevelopment,cybersecurity 
 - 🌱 I’m currently learning webdevelopment
 - 📫 How to reach me through my linked profile
