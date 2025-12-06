@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NITYAGATTU
 - 👀 I’m interested in webdevelopment,ML
-- 🌱 I’m currently learning ML  an a good experience in web development.
+- 🌱 I’m currently learning ML  and a good experience in web development.
 - 📫 How to reach me through my linkedin profile
 
 <!---
