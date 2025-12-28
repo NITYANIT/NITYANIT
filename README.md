@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **423132@student.nitandhra.ac.in**
 
-- ⚡ Fun fact **I would want to visit France one day As I know French!**
+- ⚡ Fun fact **I would want to visit France one day As I know French & love tourism!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
