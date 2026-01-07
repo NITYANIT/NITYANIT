@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityanit&label=Profile%20views&color=0e75b6&style=flat" alt="nityanit" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I want to explore Robotics..
 
 - 👯 I’m looking to collaborate on **ML projects**
 
