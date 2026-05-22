@@ -6,6 +6,16 @@
 <h3 align="center">
 Full Stack Developer • DSA Enthusiast • Open Source Contributor
 </h3>
+---
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://nityagattu.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-60A5FA?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+React+Developer;Intern+@+DRDO+2025;Contributor+@+SWOC+2026;Mentee+@+Codess.Cafe" />
