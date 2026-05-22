@@ -8,13 +8,12 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 </h3>
 
 
-## 🌐 My Portfolio
-
-<p align="center">
+<h3 align="center">
+  🌐 My Portfolio 
   <a href="https://nityagattu.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-60A5FA?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-60A5FA?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</h3>
 
 ---
 
