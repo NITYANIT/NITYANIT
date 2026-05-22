@@ -4,69 +4,46 @@
 </h1>
 
 <h3 align="center">
-Full Stack Developer • DSA Enthusiast • Exploring Robotics 🤖
+Full Stack Developer • DSA Enthusiast • Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+React+Developer;Problem+Solver+%7C+DSA+Enthusiast;Machine+Learning+Learner;Building+Real+World+Applications;Future+Robotics+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+React+Developer;Intern+@+DRDO+2025;Contributor+@+SWOC+2026;Mentee+@+Codess.Cafe" />
 </p>
 
 ---
 
 - 🔭 Currently building **full stack applications**
-- 🌱 Exploring **Machine Learning & Robotics**
-- 💻 Interested in **Backend Development + UI/UX**
+- 🌱 Exploring **Machine Learning**
+- 📫 How to reach me: My email - gattunitya13@gmail.com
+- 🎨 Passionate about creating clean UI designs using **Figma and Canva**
+- 🤖 Aspiring Robotics Engineer..
 - 🧠 Passionate about **DSA & Problem Solving**
-- 🇫🇷 Learning French and love tourism
-- ⚡ Fun fact: I want to visit France one day ✨
+- ⚡ Fun fact:I want to travel across Europe someday — especially France 🇫🇷   &&  Most of my best coding ideas come at night 🌙
 
 ## 🎓 Education
 
-| College | Stream | Year |
-|----------|---------|------|
-| National Institute of Technology Andhra Pradesh | Computer Science | 2022-2026 |
+| College | Stream | Year | CGPA |
+|----------|---------|------|-------|
+| National Institute of Technology Andhra Pradesh | Computer Science | 2023-2027 | 8.63 |
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 **DRDO Intern 2025** — Worked in **Web Development Domain**
-- 💡 Built multiple **React + Spring Boot** projects
-- 🍔 Developed a complete **Online Food Ordering System**
+- ⭐ Abacus **Champion of the Champion** at Bangalore
+- 🚀 **200 Days Badge**in Leetcode
+- 💡 Mentee at Codess.Cafe
 - 🏢 Built an **Attendance Regularisation Portal**
-- ⭐ Active on **LeetCode, GitHub & Kaggle**
 
 ---
 
-## 💼 Tech Stack
+## 💼 Experience
+🤖 WebDev Intern at DRDO, Hyderabad (May 2025-June 2025)
+🎨 **Design and Media Team** member at NIT ANP for Vulcanzy 2025
+🧠 Executive at CSE Association at NIT Andhra Pradesh  (Oct 2024 - Oct 2025)
+👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,react,spring,nodejs,express,mysql,postgresql,html,css,javascript,tailwind,git,github,linux,postman,figma" />
-</p>
-
----
-
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/nitya-gattu-b846b62b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/nityanit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.leetcode.com/iamnityagattu" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://kaggle.com/gattunitya" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
