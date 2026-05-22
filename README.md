@@ -45,19 +45,7 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nityanit&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nityanit&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityanit&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 <div align="center">
 
