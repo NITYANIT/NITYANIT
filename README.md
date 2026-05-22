@@ -81,8 +81,6 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 
 💝 If you like my work, consider giving it a ⭐!
 
-Built with 🩵 by Nitya Gattu
-
 </div>
 
 ---
