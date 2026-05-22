@@ -39,12 +39,33 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 ---
 
 ## 💼 Experience
-🤖 WebDev Intern at DRDO, Hyderabad (May 2025-June 2025)
-🎨 **Design and Media Team** member at NIT ANP for Vulcanzy 2025
-🧠 Executive at CSE Association at NIT Andhra Pradesh  (Oct 2024 - Oct 2025)
-👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
+-🤖 WebDev Intern at DRDO, Hyderabad (May 2025-June 2025)
+-🎨 **Design and Media Team** member at NIT ANP for Vulcanzy 2025
+-🧠 Executive at CSE Association at NIT Andhra Pradesh  (Oct 2024 - Oct 2025)
+-👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
 
 
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nitya-gattu-b846b62b9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/nityanit" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.leetcode.com/iamnityagattu" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:gattunitya13@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 
 <div align="center">
@@ -52,7 +73,10 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 ### 💭 Philosophy
 
 *"Consistency and curiosity can build extraordinary things."*
-
+ *"-Nitya Gattu"*
+ *✨ Every visitor makes this profile more special! Thanks for stopping by! ✨*
+*💝 If you like my work, consider giving it a ⭐!*
+Built with 🩵 by Nitya Gattu
 </div>
 
 ---
