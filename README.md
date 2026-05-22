@@ -39,10 +39,11 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 ---
 
 ## 💼 Experience
--🤖 WebDev Intern at DRDO, Hyderabad (May 2025-June 2025)
--🎨 **Design and Media Team** member at NIT ANP for Vulcanzy 2025
--🧠 Executive at CSE Association at NIT Andhra Pradesh  (Oct 2024 - Oct 2025)
--👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
+
+- 🤖 WebDev Intern at DRDO, Hyderabad (May 2025-June 2025)
+- 🎨 **Design and Media Team** member at NIT ANP for Vulcanzy 2025
+- 🧠 Executive at CSE Association at NIT Andhra Pradesh  (Oct 2024 - Oct 2025)
+- 👥 Senior Executive at Graphic Cafe Club at NIT Andhra Pradesh (Oct 2024 - Oct 2025)
 
 
 <h3 align="center">🌐 Connect with me</h3>
@@ -73,10 +74,15 @@ Full Stack Developer • DSA Enthusiast • Open Source Contributor
 ### 💭 Philosophy
 
 *"Consistency and curiosity can build extraordinary things."*
- *"-Nitya Gattu"*
- *✨ Every visitor makes this profile more special! Thanks for stopping by! ✨*
-*💝 If you like my work, consider giving it a ⭐!*
+
+**— Nitya Gattu**
+
+✨ Every visitor makes this profile more special! Thanks for stopping by! ✨
+
+💝 If you like my work, consider giving it a ⭐!
+
 Built with 🩵 by Nitya Gattu
+
 </div>
 
 ---
