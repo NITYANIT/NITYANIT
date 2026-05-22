@@ -3,13 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">
-Full Stack Developer • DSA Enthusiast • Open Source Contributor
-</h3>
-
-
 ## My portfolio website - [Portfolio](https://nityagattu.me/)
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+React+Developer;Intern+@+DRDO+2025;Contributor+@+SWOC+2026;Mentee+@+Codess.Cafe" />
