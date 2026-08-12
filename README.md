@@ -28,7 +28,7 @@
 ## 🏆 Achievements
 
 - ⭐ Abacus **Champion of the Champion** at Bangalore
-- 🚀 **200 Days Badge**in Leetcode
+- 🚀 **365 Days Badge**in Leetcode
 - 💡 Mentee at Codess.Cafe
 - 🏢 Built an **Attendance Regularisation Portal**
 
