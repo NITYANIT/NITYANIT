@@ -27,7 +27,7 @@
 
 ## 🏆 Achievements
 
-- ⭐ Abacus **Champion of the Champion** at Bangalore
+- ⭐ Rank 626 @ ICPC AlgoQueen 2026 in college category.
 - 🚀 **365 Days Badge**in Leetcode
 - 💡 Mentee at Codess.Cafe
 - 🏢 Built an **Attendance Regularisation Portal**
